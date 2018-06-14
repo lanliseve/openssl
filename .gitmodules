@@ -1,6 +1,6 @@
 [submodule "boringssl"]
 	path = boringssl
-	url = https://github.com/google/boringssl
+	url = https://github.com/google/boringssl.git
 
 [submodule "pyca.cryptography"]
 	path = pyca-cryptography
